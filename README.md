@@ -1,6 +1,6 @@
-# Data-Minning-Daily
+# ML-Weekly
 
-My weekly of data-mining group. Try to implement some algorithms.
+My weekly of data-mining group. Try to implement some algorithms. Or distributed and multi-GPU computing.
 
 ## Environments
 
