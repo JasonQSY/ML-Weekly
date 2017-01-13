@@ -5,5 +5,5 @@ The main problem this week is to implement the Reversi/Othello AI. We will focus
 
 # Reference
 
-- [Reversi, Wikipedia](https://en.wikipedia.org/wiki/Reversi)
+- [Reversi, Wikipedia](https://en.wikipedia.org/wiki/Reversi).
 - [Reinforcement Learning in the Game of Othello: Learning Against a Fixed Opponent and Learning from Self-Play](http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/paper-othello.pdf), which is the main topic.
