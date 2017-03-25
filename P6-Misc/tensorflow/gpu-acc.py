@@ -1,3 +1,4 @@
+# Modified according to <https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/5_MultiGPU/multigpu_basics.py>
 import numpy as np
 import tensorflow as tf
 import datetime
