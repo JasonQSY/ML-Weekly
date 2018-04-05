@@ -1,23 +1,25 @@
 # ML-Weekly
 
-My weekly of machine learning. It is actually a collection of my implementations of machine learning algorithms. We will also cover distributed-tensorflow and multi-GPU computing.
+My weekly of machine learning. It is actually a collection of my implementations of machine learning algorithms.
 
 ## Environments
 
-It is based on `python3` and `jupyter notebook`. To initialize the environment, you need `pyenv` and `pyenv-virtualenv` firstly.
+It is based on `python3` and `jupyter notebook`. I use `pyenv` and `anaconda` to solve my environment. Other topics about environment is covered in P6-Misc.
 
 ```
-pyenv install 3.6.0
-pyenv virtualenv 3.6.0 tf-lab
-pyenv local tf-lab
+pyenv install anaconda3-5.1.0
 
-# basic
-pip install numpy tensorflow jupyter
-# if spacemacs
-pip install anaconda-mode
+# install tensorflow
+conda install tensorflow
+
+# install sklearn
+conda install scikit-learn
+
+# install pytorch
+conda install pytorch torchvision -c pytorch
 ```
 
-Some code may need tensorflow-gpu or other environments.
+Some code may need tensorflow-gpu, opencv or other environments.
 
 ## Topics
 
@@ -32,3 +34,4 @@ Some code may need tensorflow-gpu or other environments.
 
 - [Tensorflow](https://www.tensorflow.org/)
 - [scikit-learn](http://scikit-learn.org/)
+- [pytorch](http://pytorch.org)
